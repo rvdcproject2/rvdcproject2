@@ -30,4 +30,4 @@ The RVDC Reporting System is designed to streamline the process of submitting an
 ## Objective
 
 The RVDC Reporting System aims to enhance the efficiency and accuracy of report submissions within the organization. By centralizing the reporting process and enabling collaborative input, the system reduces errors, ensures comprehensive data capture, and simplifies the generation of official documentation for various academic and medical activities.
-
+ 
